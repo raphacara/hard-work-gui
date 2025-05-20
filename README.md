@@ -1,6 +1,6 @@
 # hard-work-gui
 
-### Fake Work GUI
+### Hard Work GUI
 
 > Simulateur d'application de traitement de données en temps réel, avec interface graphique.
 
