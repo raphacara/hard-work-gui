@@ -51,7 +51,7 @@ Les contributions sont bienvenues !
 
 ### Licence
 
-MIT © 2025 FakeCorp
+MIT © 2025 FakeCorp.
 
 ---
 
